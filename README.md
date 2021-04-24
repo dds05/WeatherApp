@@ -1,4 +1,4 @@
-Made a weather app which uses openweatherapi to tell the weather
+Made a weather app using React which uses openweatherapi to tell the weather.
 User just need to enter the city and country.
 
 Instructions for usage:
